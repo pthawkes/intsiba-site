@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 200" aria-label="Intsiba feather logo">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4da3ff"/>
+      <stop offset="100%" stop-color="#a5d4ff"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M118 14c-25 14-55 52-68 86-4 11-5 23-2 34 1 4 7 2 16-6 15-13 32-32 51-38-14 11-28 26-41 43-5 6-9 13-13 20-1 3 2 6 6 5 12-3 27-13 40-27l28-32c6-7 12-14 15-22 12-30-2-56-32-63z"/>
+  <path fill="#0a1429" fill-opacity="0.16" d="M84 130c-4 7-8 14-11 21-1 3 2 6 6 5 12-3 27-13 40-27l14-16C121 119 101 122 84 130z"/>
+</svg>
