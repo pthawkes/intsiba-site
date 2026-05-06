@@ -184,6 +184,7 @@ FROM dbo.fnClientCodeLiabilityTotalsAsAt(@AsAtDate)</CommandText>
                                   <Style>
                                     <FontFamily>Tahoma</FontFamily>
                                     <FontSize>11pt</FontSize>
+                                    <FontWeight>Normal</FontWeight>
                                     <Color>MidnightBlue</Color>
                                   </Style>
                                 </TextRun>
